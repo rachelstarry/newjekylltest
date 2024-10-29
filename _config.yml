@@ -1,1 +1,4 @@
-theme: minima
+theme: minima,
+title: Jekyll Workshop Test
+author: Rachel S
+description: Pitt ULS Fall 2024
